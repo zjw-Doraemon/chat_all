@@ -1,0 +1,13 @@
+
+QDialog#login_Dialog{
+    background-color: rgb(100,150,170) ;
+}
+QDialog#register_Dialog,test{
+    background-color: rgb(100,150,170) ;
+}
+
+
+
+#user_label,#pass_label{
+    color:white;
+}
